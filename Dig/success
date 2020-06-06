@@ -1,0 +1,2483 @@
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22584
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:18:55 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2958
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:18:56 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65321
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:18:57 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10136
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 46 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:19 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55487
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 10 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:20 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14584
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:21 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31593
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 15 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:22 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53731
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:23 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50495
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 39 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:19 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16419
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 5 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:20 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58069
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 4 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:21 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1359
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 7 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:22 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25265
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:23 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47201
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 32 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:19 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21688
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 5 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:20 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11944
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:21 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14846
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:22 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31180
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:23 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57712
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:24 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49741
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:25 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16852
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:26 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48508
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:27 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50523
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:28 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10702
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:29 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36835
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:30 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6005
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:31 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17673
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:32 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42779
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 5 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:33 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8039
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:34 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36616
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:35 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14151
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:36 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34479
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:37 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45345
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:38 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38415
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:39 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4540
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:40 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3102
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:41 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23851
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:42 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55028
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 4 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:43 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43473
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:44 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34177
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:45 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17325
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:46 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5974
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:47 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45331
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:48 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43945
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:49 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11371
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:50 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31793
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:51 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41706
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:52 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3889
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:53 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23740
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 4 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:54 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49114
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:55 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1111
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:56 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53983
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:57 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37760
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:58 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32468
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:20:59 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26785
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:00 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28197
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:01 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45293
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:02 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30231
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:03 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38090
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:04 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50648
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 4 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:05 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10764
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:06 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46132
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:07 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7421
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:08 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41013
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:09 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3639
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 20 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:10 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17895
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:11 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24330
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:12 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17318
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:13 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40259
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:14 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14623
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:15 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8749
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:16 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37606
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:17 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45349
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:18 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24101
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:19 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31700
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:20 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29305
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:21 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30702
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:22 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16525
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:23 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52282
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:24 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44355
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:25 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36405
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:26 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47970
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:27 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28309
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 5 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:28 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24079
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:29 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21119
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:30 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42173
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:31 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31977
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:32 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18209
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:33 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23394
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:34 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17077
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 3 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:35 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57116
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 4 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:36 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62486
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:37 UTC 2020
+;; MSG SIZE  rcvd: 86
+
