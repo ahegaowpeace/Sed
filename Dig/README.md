@@ -110,3 +110,67 @@ ns.hoge.com.		86400	IN	A	172.16.0.2
 ;; WHEN: 水  6月 03 07:21:36 UTC 2020
 ;; MSG SIZE  rcvd: 86
 ```
+## 答え２
+```
+$ cat success | sed -e '/.*DiG.*/i|' | sed -e '1d' | awk 'BEGIN{RS="|";FS="\n"}{a[NR]=$0}END{for(i=NR;i>1;i--){print a[i] "\n"}}' | sed -e '1d' > tmp
+$ cat tmp
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62486
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 2 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:37 UTC 2020
+;; MSG SIZE  rcvd: 86
+
+
+
+
+; <<>> DiG 9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6 <<>> @10.0.10.123 hoge.com A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57116
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;hoge.com.			IN	A
+
+;; ANSWER SECTION:
+hoge.com.		86400	IN	A	172.16.0.1
+
+;; AUTHORITY SECTION:
+hoge.com.		86400	IN	NS	ns.hoge.com.
+
+;; ADDITIONAL SECTION:
+ns.hoge.com.		86400	IN	A	172.16.0.2
+
+;; Query time: 4 msec
+;; SERVER: 10.0.10.123#53(10.0.10.123)
+;; WHEN: 水  6月 03 07:21:36 UTC 2020
+;; MSG SIZE  rcvd: 86
+```
+連続空行が邪魔なので一時ファイルに`cat`を打って一つにまとめる
+```
+$ cat -s tmp
+略
+```
